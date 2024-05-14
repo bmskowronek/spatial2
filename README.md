@@ -2,7 +2,9 @@
 
 # recommended guide through these files is in raport.pdf
 
-Note: this version may have some small bugs, also large plots mentioned in the write-up are packed in a .zip on the repo
+Note: the mentioned big plots can be found here: https://drive.google.com/file/d/12j5eDyuZek_BXfgjw7pSenfhk3HRZUs3/view?usp=sharing
+However, mind that the code plot_app7_raw.py should be able to generate them anyway, albeit a bit slow.
+Note: this version may have some small bugs
 
 All graphing files used a modified, reduced version of the data, transformed by the file "datachanger.py". 
 
