@@ -2,7 +2,7 @@
 
 # recommended guide through these files is in raport.pdf
 
-Note: this version may have some small bugs.
+Note: this version may have some small bugs, also large plots mentioned in the write-up are packed in a .zip on the repo
 
 All graphing files used a modified, reduced version of the data, transformed by the file "datachanger.py". 
 
